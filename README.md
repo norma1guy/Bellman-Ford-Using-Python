@@ -14,10 +14,12 @@ The algorithm initializes the distance to the source to 0 and all other nodes to
 
 
 
-https://github.com/norma1guy/Bellman-Ford-Using-Python/blob/main/2.png?raw=true
+![2](https://user-images.githubusercontent.com/49033890/131825622-30dc85d4-1208-4eb7-abe7-b9b2b93fec14.png)
 
 
-https://github.com/norma1guy/Bellman-Ford-Using-Python/blob/main/3.png?raw=true
+
+![3](https://user-images.githubusercontent.com/49033890/131825668-7a2c24f3-68d9-4fc0-80fd-8bc58b8e5877.png)
+
 
 
 # Result 
