@@ -10,7 +10,8 @@ The Bellman–Ford algorithm simply relaxes all the edges, and does this |V|-1 t
 
 The algorithm initializes the distance to the source to 0 and all other nodes to infinity. Then for all edges, if the distance to the destination can be shortened by taking the edge, the distance is updated to the new lower value. At each iteration i that the edges are scanned, the algorithm finds all shortest paths of at most length i edges (and possibly some paths longer than i edges). Since the longest possible path without a cycle can be |V|-1 edges, the edges must be scanned |V|-1 times to ensure the shortest path has been found for all nodes. A final scan of all the edges is performed and if any distance is updated, then a path of length |V| edges has been found which  can only occur if at least one negative cycle exists in the graph.
 
-https://github.com/norma1guy/Bellman-Ford-Using-Python/blob/main/1.png?raw=true
+![1](https://user-images.githubusercontent.com/49033890/131825488-ad7f5feb-ebef-4c86-a528-617955b01f48.png)
+
 
 
 https://github.com/norma1guy/Bellman-Ford-Using-Python/blob/main/2.png?raw=true
